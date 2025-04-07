@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jorge-solis04
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning about react.js 
-- 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: idk haha
 
