@@ -1,4 +1,4 @@
-### **Jorge Solís Contreras**
+ # **Jorge Solis Contreras**
 
 Desarrollador web con enfoque en **frontend**, especializado en **Vue.js** y **TypeScript**, y actualmente ampliando mi stack hacia **backend** para convertirme en un desarrollador más completo.
 
