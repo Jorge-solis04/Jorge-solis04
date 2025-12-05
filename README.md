@@ -33,12 +33,7 @@ Desarrollador web con enfoque en **frontend**, especializado en **Vue.js** y **T
 * Supabase
 * SQL (bases académicas y proyectos)
 
-### **Otros**
 
-* Git & GitHub (control de versiones y trabajo colaborativo)
-* Metodologías básicas de desarrollo y documentación
-
----
 
 ## 🛠️ Proyectos destacados
 
@@ -49,16 +44,6 @@ Desarrollador web con enfoque en **frontend**, especializado en **Vue.js** y **T
 * ✅ Landing pages para negocios locales con vanilla JS
 
 ---
-
-## 📈 Actualmente aprendiendo
-
-* Arquitectura backend con Node.js
-* Buenas prácticas de APIs REST
-* Diseño de bases de datos
-* Optimización de Vue + TS para proyectos más grandes
-
----
-
 
 
   
