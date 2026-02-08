@@ -50,10 +50,7 @@ President of the **BeeDevelopers** community at University of Guanajuato.
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dvue">
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dtypescript">
 
-###
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/Jorge-solis04)](https://github.com/LordDashMe/github-contribution-stats/)
 
-###
 
 
 
