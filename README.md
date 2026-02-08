@@ -14,7 +14,7 @@ I’m currently working as a **Frontend Engineer**, migrating legacy React apps 
 I’m currently learning advanced **Linux** administration and **System Design**.
 I’m looking to collaborate on Open Source projects related to developer tools.
 **Key Achievement:** Creator of **beeMatch**, a social platform scaling to **1,000+ active users**.
-⚡ Fun fact: I switched my daily driver to **Linux** and I'm never going back.
+Fun fact: I switched my daily driver to **Linux** and I'm never going back.
 President of the **BeeDevelopers** community at University of Guanajuato.
 ###
 
@@ -22,9 +22,6 @@ President of the **BeeDevelopers** community at University of Guanajuato.
 
 ###
 
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dvue">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dtypescript">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -47,6 +44,10 @@ President of the **BeeDevelopers** community at University of Guanajuato.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
+
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dvue">
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dtypescript">
 
 ###
 
