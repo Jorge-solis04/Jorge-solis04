@@ -1,22 +1,38 @@
-<h1 align="left">Hi there! I'm Jorge Solis</h1>
 
-###
+# Hi there, I'm Jorge Solis 
 
-<p align="left">My name is Jorge Solis Contreras and I'm a Software Engineer from Mexico</p>
+## Full-Stack Software Engineer | Vue.js, Nuxt, React & Node.js Specialist
 
-###
 
-<h2 align="left">About me</h2>
 
-###
+I build scalable, high-performance web applications and robust backend architectures. My engineering philosophy centers on **Clean Code**, strict typing (`TypeScript`), and data-driven performance optimization. I focus on delivering measurable business value, whether it's migrating complex architectures or scaling real-time databases for thousands of concurrent users.
 
-I’m currently working as a **Frontend Engineer**, migrating legacy React apps to modern **Nuxt/Vue** architectures.
-I’m currently learning advanced **Linux** administration and **System Design**.
-I’m looking to collaborate on Open Source projects related to developer tools.
-**Key Achievement:** Creator of **beeMatch**, a social platform scaling to **1,000+ active users**.
-Fun fact: I switched my daily driver to **Linux** and I'm never going back.
-President of the **BeeDevelopers** community at University of Guanajuato.
-###
+### Quick Stats & Current Focus
+- **Current Role:** Frontend Software Engineer at **Epok**, leading architectural migrations from React to Nuxt.js (achieving a 40% rendering performance boost).
+-  **Building:** Scaling **BeeMatch**, a full-stack social platform that acquired **1,000+ users** in its first week with a **99.9% uptime SLA**.
+- **Backend Engineering:** Developing robust automated infrastructure with **Node.js**, Meta Webhooks API, and Google Calendar API, deployed independently on a VPS via **Dokploy**.
+- **Academics:** Completing a B.S. in Computer Systems Engineering at Universidad de Guanajuato (**GPA: 9.18**).
+- **Community:** President of **BeeDevelopers**, securing technical partnerships with **Google (Gemini)** and **MLH**.
+### Tech Stack & Tools
+**Frontend Architecture**
+- Vue.js (Vue 3) | Nuxt.js (Nuxt 3) | React | JavaScript (ES6+) | TypeScript | Tailwind CSS | Vite
+
+**Backend & Data Engineering**
+- Node.js | Express | RESTful APIs | Supabase | PostgreSQL | Data Modeling
+
+**Infrastructure & DevOps**
+- Docker | Dokploy | Linux (Ubuntu/Pop!_OS) | Git & GitHub | Crontabs | CI/CD basics
+
+
+
+### Featured Engineering Achievements
+* **Performance Optimization:** Spearheaded the 'Gloobrick' platform migration to Nuxt.js, enforcing strict TypeScript standards that reduced runtime errors by 30% and cut initial load times by 50%.
+* **High-Concurrency Systems:** Architected the data model for BeeMatch using Supabase (PostgreSQL), optimizing queries to handle traffic spikes during launch without degradation.
+* **API Integration:** Engineered a secure Node.js server to process real-time webhooks from the Meta API, integrating automated scheduling via the Google Calendar REST API.
+### Let's Contact    
+- **LinkedIn:** [linkedin.com/in/jorge-solis-4b36a6390](https://www.linkedin.com/in/jorge-solis-4b36a6390/)
+- **Email:** jorgesolicon@gmail.com
+- **Resume:** Feel free to reach out on LinkedIn for my latest Full-Stack CV.
 
 <h2 align="left">I code with</h2>
 
