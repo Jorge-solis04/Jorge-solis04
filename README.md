@@ -3,7 +3,7 @@
 
 ## Full-Stack Software Engineer | Vue.js, Nuxt, React & Node.js Specialist
 
-
+[![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=6366f1&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286)](https://codetime.dev)
 
 I build scalable, high-performance web applications and robust backend architectures. My engineering philosophy centers on **Clean Code**, strict typing (`TypeScript`), and data-driven performance optimization. I focus on delivering measurable business value, whether it's migrating complex architectures or scaling real-time databases for thousands of concurrent users.
 
@@ -62,10 +62,7 @@ I build scalable, high-performance web applications and robust backend architect
 </div>
 
 ###
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dvue">
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://shields.jannchie.com/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D33286%26language%3Dtypescript">
-
+[![CodeTime Languages](https://codetime.dev/api/widgets/donut.svg?uid=33286&days=30&limit=6&theme=light)](https://codetime.dev)
 ###
 
 
